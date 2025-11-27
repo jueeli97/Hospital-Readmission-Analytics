@@ -143,7 +143,7 @@ Healthcare_Readmission/
 │
 ├── Scripts/
 │ ├── data_cleaning.R
-│ └── 02_eda_modeling.R
+│ └── eda_modeling.R
 │
 ├── app.R
 ├── screenshots/
