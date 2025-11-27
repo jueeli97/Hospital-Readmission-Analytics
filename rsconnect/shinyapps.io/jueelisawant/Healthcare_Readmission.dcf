@@ -1,0 +1,13 @@
+name: Healthcare_Readmission
+title: Healthcare_Readmission
+username: jueelisawant
+account: jueelisawant
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16172831
+bundleId: 11234246
+url: https://jueelisawant.shinyapps.io/Healthcare_Readmission/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Data/description.pdf|Data/diabetic_data.csv|Data/processed/diabetes_readmission_clean.csv|Data/processed/logit_model_readmit30.rds|fig1.png|fig2.png|Rplot.png|Scripts/data_cleaning.R|Scripts/eda_modeling.R
